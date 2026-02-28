@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+deepface
+gradio
+numpy
+tf-keras
